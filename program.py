@@ -3,6 +3,7 @@ def main():
     print('And I change it every day!!!')
     print('Again')
     print('Trylia lia')
+    print('Privbet')
 
 if __name__ == 'main':
     main()
